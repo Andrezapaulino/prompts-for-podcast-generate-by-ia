@@ -67,8 +67,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 ## 👨‍💻 Expert
 
 <p>
- <
-    />
     <p>&nbsp&nbsp&nbspAndreza Paulino<br>
     &nbsp&nbsp&nbsp
     <a 

@@ -83,9 +83,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     <a 
         href="https://www.linkedin.com/in/andreza-paulino/">
         LinkedIn
-   
-    </a>
-    &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>

@@ -76,7 +76,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/Andrezapaulino">
         GitHub
     </a>
     &nbsp;|&nbsp;
@@ -96,4 +96,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Andreza Paulino](https://github.com/Andrezapaulino)

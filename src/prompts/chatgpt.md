@@ -19,7 +19,8 @@ O nome deve conter alguma palavra forte que remeta a Governança de Dados
 
 Náo quero que o nome contenha palavras em inglês       |
                                                        
-| conteúdo | Voce é um roteirista de poscast, e vamos criar um roteiro de podcast e de tecnologia focado em Governanca de dados, cujo o nome é: Transformando Dados em Valor e tem foco em Governanca de dados, com o publico alvo de inciiantes em governnaca de dados.
+| conteúdo | 
+Voce é um roteirista de poscast, e vamos criar um roteiro de podcast e de tecnologia focado em Governanca de dados, cujo o nome é: Transformando Dados em Valor e tem foco em Governanca de dados, com o publico alvo de inciiantes em governnaca de dados.
 
 o formato do roteiro deve ser:
 [INTRODUÇÃO]

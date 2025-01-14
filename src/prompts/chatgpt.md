@@ -4,7 +4,6 @@
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  |
 Voce é um roteirista de podcast, e vamos criar um podcast de tecnologia focado em Governança de Dados e eu gostaria de uma ajuda sua para criar 5 sugestoes de nomes criativos para um podcast de Governança de dados feito por nerds e que tenha um trocadilho nerd no nome
 
